@@ -18,7 +18,8 @@ This same process is also done via Azure Pipelines. <br>
 # Youtube screencast
 I have made a short video going through the above steps, so you can have an even better understanding of the complete workflow.
 I hope it helps!<br>
-[https://youtu.be/vt5fpE0bzSY](https://studio.youtube.com/video/u1ShrRVKxbQ/edit)
+[![Watch the video](https://img.youtube.com/vi/u1ShrRVKxbQ/maxresdefault.jpg)](https://studio.youtube.com/video/u1ShrRVKxbQ/edit)
+
 # future improvements
 All the work done in the project used version 1 of azureml Python SDK, but Python SDK version 2 is already available. A good experiment would be to repeat the steps outlined above using the newest version of the API and document the differences.
 # screenshots along the way
