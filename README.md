@@ -7,13 +7,18 @@ This same process is also done via Azure Pipelines. <br>
 [![image](https://github.com/hualcosa/nd00333_AZMLND_C2/assets/46836901/6ddefd9d-69a9-44d5-9daa-efd719556ab5)
 
 1. Authentication
+  <div style="text-align: right"> 
+  In this step, you will need to install the Azure Machine Learning Extension which allows you to interact with Azure Machine Learning
+   Studio, part of the az command. After having the Azure machine Learning Extension, you will create a Service Principal account and
+   associate it with your specific workspace.
+ </div>
 2. Automated ML Experiment
-3. Deploy the best model
-4. Enable logging
-5. Swagger Documentation
-6. consume model endpoints
-7. Create and publish a pipeline
-8. writing this documentation :)
+4. Deploy the best model
+5. Enable logging
+6. Swagger Documentation
+7. consume model endpoints
+8. Create and publish a pipeline
+9. writing this documentation :)
 
 # Youtube screencast
 I have made a short video going through the above steps, so you can have an even better understanding of the complete workflow.
