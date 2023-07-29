@@ -4,7 +4,7 @@ This is my repository for the second project of the Azure Machine Learning Engin
 The goal of this project is to train a machine learning model for production with automl, deploy it and consume it.<br>
 This same process is also done via Azure Pipelines. <br>
 # architectural diagram
-[![image](https://github.com/hualcosa/nd00333_AZMLND_C2/assets/46836901/6ddefd9d-69a9-44d5-9daa-efd719556ab5)
+[!image](https://github.com/hualcosa/nd00333_AZMLND_C2/assets/46836901/6ddefd9d-69a9-44d5-9daa-efd719556ab5)
 
 1. Authentication
   <div style="text-align: right"> 
@@ -14,7 +14,8 @@ This same process is also done via Azure Pipelines. <br>
   <br>
  </div>
  Service principal creation:<br>
-![image](https://github.com/hualcosa/nd00333_AZMLND_C2/blob/master/sample_screenshots/service_principal_creation.png)
+[!service_principal.png](https://github.com/hualcosa/nd00333_AZMLND_C2/blob/master/sample_screenshots/service_principal_creation.png)
+
 2. Automated ML Experiment
 4. Deploy the best model
 5. Enable logging
