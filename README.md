@@ -3,6 +3,8 @@ This is my repository for the second project of the Azure Machine Learning Engin
 <br>
 The goal of this project is to train a machine learning model for production with automl, deploy it and consume it.<br>
 This same process is also done via Azure Pipelines. <br>
+
+PS: ALL the azure resources used during this project were already destroyed. That's why I am not bothering about showing credentials in the code, video, and screenshots. Don't even try to be a "Smart guy" :stuck_out_tongue_closed_eyes:
 # Youtube screencast
 I have made a short video going through the below steps, so you can have an even better understanding of the complete workflow.
 I hope it helps!<br>
