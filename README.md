@@ -8,7 +8,7 @@ PS: ALL the azure resources used during this project were already destroyed. Tha
 # Youtube screencast
 I have made a short video going through the below steps, so you can have an even better understanding of the complete workflow.
 I hope it helps!<br>
-[![Watch the video](https://img.youtube.com/vi/u1ShrRVKxbQ/maxresdefault.jpg)](https://studio.youtube.com/video/u1ShrRVKxbQ)
+[![Watch the video](https://img.youtube.com/vi/u1ShrRVKxbQ/maxresdefault.jpg)](https://youtu.be/u1ShrRVKxbQ)
 # Architectural diagram
 ![image](https://github.com/hualcosa/nd00333_AZMLND_C2/assets/46836901/6ddefd9d-69a9-44d5-9daa-efd719556ab5)
 
