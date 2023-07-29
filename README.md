@@ -8,7 +8,7 @@ I have made a short video going through the below steps, so you can have an even
 I hope it helps!<br>
 [![Watch the video](https://img.youtube.com/vi/u1ShrRVKxbQ/maxresdefault.jpg)](https://studio.youtube.com/video/u1ShrRVKxbQ/edit)
 # Architectural diagram
-[!image](https://github.com/hualcosa/nd00333_AZMLND_C2/assets/46836901/6ddefd9d-69a9-44d5-9daa-efd719556ab5)
+![image](https://github.com/hualcosa/nd00333_AZMLND_C2/assets/46836901/6ddefd9d-69a9-44d5-9daa-efd719556ab5)
 
 1. Authentication
   <div style="text-align: justify"> 
