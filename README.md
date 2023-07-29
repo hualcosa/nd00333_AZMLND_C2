@@ -13,7 +13,7 @@ This same process is also done via Azure Pipelines. <br>
   associate it with your specific workspace.
   <br>
   Service principal creation:<br>
-  [!image](https://github.com/hualcosa/nd00333_AZMLND_C2/blob/master/sample_screenshots/service_principal_creation.png)
+  ![image](https://github.com/hualcosa/nd00333_AZMLND_C2/blob/master/sample_screenshots/service_principal_creation.png)
  </div>
 2. Automated ML Experiment
 4. Deploy the best model
