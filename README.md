@@ -12,9 +12,9 @@ This same process is also done via Azure Pipelines. <br>
   Studio, part of the az command. After having the Azure machine Learning Extension, you will create a Service Principal account and
   associate it with your specific workspace.
   <br>
-  Service principal creation:<br>
-  ![image](https://github.com/hualcosa/nd00333_AZMLND_C2/blob/master/sample_screenshots/service_principal_creation.png)
  </div>
+ Service principal creation:<br>
+![image](https://github.com/hualcosa/nd00333_AZMLND_C2/blob/master/sample_screenshots/service_principal_creation.png)
 2. Automated ML Experiment
 4. Deploy the best model
 5. Enable logging
