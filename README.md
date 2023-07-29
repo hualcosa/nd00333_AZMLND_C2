@@ -94,5 +94,3 @@ deploying the model.
 
 # Future improvements
 All the work done in the project used version 1 of azureml Python SDK, but Python SDK version 2 is already available. A good experiment would be to repeat the steps outlined above using the newest version of the API and document the differences.
-# screenshots along the way
-# link to screencast video
